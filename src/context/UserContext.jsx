@@ -74,7 +74,7 @@ export const UserContextProvider = ({ children }) => {
             )
         } catch (error) {
             console.error(error)
-        }
+        } 
     }
 
     return (
